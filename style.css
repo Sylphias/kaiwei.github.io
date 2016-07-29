@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'BrotherNature';
+  src: url('webfont.eot'); /* IE9 Compat Modes */
+  src: url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+}
+.background{
+  position:absolute;
+  background-color: #282828;
+  height:100%;
+  width:100%;
+  padding:0px !important;
+}
+.title-block{
+  height:160px;
+  display:flex;
+  justify-content:center;
+}
+.title-content{
+  font-family: 
+
+}
+.social-container{
+  height:50%;
+  padding: 0px !important;
+}
+
+.video-block{
+  height:360px;
+}
+/*For seeing where blocks are*/
+.social-links{
+  width:100%;
+  height:120px;
+  margin:0px;
+}
+.blue{
+  background-color: blue;
+}
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
+.grey{
+  background-color: gray;
+}
